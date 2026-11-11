@@ -130,3 +130,9 @@ for dir in pimpmy/*; do echo $'\n'"### pimp my $(basename "$dir")"; for avif in 
 #### Pimp My Small Family Extravaganza
 
 ![](pimpmy/smallfamily/Pimp-My-Small-Family-Extravaganza.avif)
+
+### pimp my vaccines
+
+#### Pimp My Vaccine - Chaotic Immunity Obsession
+
+![](pimpmy/vaccines/Pimp-My-Vaccine.Chaotic-Immunity-Obsession.avif)
